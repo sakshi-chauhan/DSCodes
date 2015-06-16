@@ -1,0 +1,64 @@
+1) Print linked list in reverse order(using recursion)
+2) Reverse the linked list
+3) Find sum of two linked list
+4) Find the two elements in array which sum to a given element
+5) Find the triplet(3 numbers) in an array which sum to a given element
+6) Do preorder, postorder, inorder traversal of a tree
+7) Implement BFS, DFS
+8) Implement DFS with stack
+9) Print the binary tree level by level
+10) print all the leaf from left to right
+11) find two numbers in a BST which sum to a given element
+12) sum all the nodes in a bst which lies between 2 given numbers
+13) FIND THE K'TH LARGEST ELEMENT IN A BST
+14) ROTATE A 2D MATRIX BY:
+A) 90 DEG CLOCKWISE
+B) 90 DEG ANTICLOCKWISE
+C) 180 DEG CLOCKWISE
+D) 180 DEG ANTICLOCKWISE
+15) DETERMINE IF A GIVEN NUMBER IS A PERFECT SQUARE OR NOT IN MINIMUM POSSIBLE TIME
+16) DETERMINE IF A GIVEN NUMBER IS POWER OF 2 OR NOT IN MINIMUM POSSIBLE TIME
+17) FIND THE LONGEST PALINDROMIC SUBSTRING AS WELL AS SUB-SEQUENCE OF A GIVEN string
+18) Print all permutations of a given string
+19) GIVEN N, PRINT ALL EXPRESSIONS OF N PARENTHESIS ({, }) , SUCH THAT ALL EXPRESSIONS ARE VALID. E.G.:
+ N = 1  {}
+ N = 2 {}{}, {{}}
+ N = 3 {{{}}}, {{}{}}, {{}}{}, ...SO ON
+20) GIVEN A STRING LIKE "00?110?01", PRINT ALL COMBINATIONS OF GIVEN STRING BY REPLACING GIVEN QUESTION MARKS BY 0 OR 1.
+21) Given n dices with numbers {1,2,....A} on each of them and are rolled simultaneously, find the possible number of ways in which the given S can be formed
+22) Given a word "EFFICIENT", find total number of different permutations of it
+23) Implement a stack with 2 queues
+24) Implement a queue with 2 stacks
+25) Implement a cicular queue
+26) Count number of different characters in a given string
+27) Given a set of strings, find the subsets which are anagram of each other. Anagram is like, {car,rac,rca, so on} with all characters but different permutations.
+So let given set is : S ={rca, rc, car, mon, mno, rac, omn}
+ output: {{rac,car,rca}, {rc}, {mon,mno,omn}}
+28) Find the median of two sorted arrays in O(logn) time
+29) Find the majority element in an array. A majority element is one which occurs more than N/2 times
+30) Given a binary tree, link all the leaf nodes of it from left to right
+31) Find the Lowest common ancestor of 2 nodes in a BST
+32) How would you determine if a cycle is present in a graph(undirected/directed) or not ?
+33)Given n pots of gold objects and two players A and B. A player can see the amount of gold in each pot. They choose pots turn by turn and in each turn a player can choose from either of the end elements. Make player A win
+34) Given 3 strings, find out the longest common subsequence of first 2 strings which doesn't contains the 3rd string
+35) Find all integral solutions of equation a*x+b*y = c
+35) Generate all primes from 1 to 1 million
+36) How would you sort 900 MB data with 100 MB of RAM ,give the corresponding complexity
+37) Given sequence : 01234567891011121314151617181920........
+     Find the n'th digit
+38) Generate all gray codes of n bit
+39) Convert a binary tree to DLL and construct a binary tree from DLL
+40) Which data structure would u use to built the file system and why ?
+41)  Best sorting algorithm known till today
+42) What is the lower bound of comparison sort ? Prove it ?
+43) Is the lower bound only for comparison sort or also for other types of sort(radix sort, bucket sort, etc) ?
+44) How would you search needle(small word) in a haystack(Text) ? Give algorithm.
+45) How google maintains top 10 queries each instant
+46) Assume an infinite stream of numbers is coming in, how would you maintain the largest 1000 elements at every instant
+47)Assume an infinite stream of numbers is coming in, how would you maintain the median of the given stream
+48) Given x, generate true with probability x/100
+49) Find the n'th fibonacci number in O(logn) time
+50) Given a pot of infinite objects. In each turn either 1, or 2 or 3 objects can be taken from pot. Find the possible number of ways to form a given sum of n objects. Can this be done in O(logn) time
+51) Cyclic permutaion of different order.
+52) minimum string swaping to make two string same. aab, baa  only one swap required.
+53) print path b/w any two node in binary tree.
